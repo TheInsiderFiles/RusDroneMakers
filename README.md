@@ -1,6 +1,6 @@
 # RusDroneMakers
 
-### *Russian*
+### *Russian language description*
 
 Начиная с 2023 года [1] в России было зарегистрировано рекордное в истории количество компаний, специализирующихся на производстве авиатехники — 407. Многие из них связаны с производством дронов, установил The Insider, и многие производят именно те дроны, которые применяются на фронте. The Insider установил как минимум 140 компаний, производящих дроны — как новых, «кустарных» производств, так и старых, еще советских конструкторских бюро, и еще более 60 компаний и организаций, которые либо поставляют запчасти для них, либо перепродают их дроны, либо обучают операторов. В данном репозитории приводится полный список предприятий с указанием их продукции или роли в производстве применяемых в войне против Украины БПЛА.
 
@@ -46,7 +46,7 @@
 | `staff_2024`             | Средняя численность работников в штатном расписании за 2024 год  |
 | `authorized_capital`             | Уставный капитал   |
 
-### *English*
+### *English language description*
 
 Since 2023 [1], at least 407 companies specializing in aircraft production have been newly registered in Russia, with many directly involved in the manufacture of military drones. *The Insider* has identified at least 140 drone manufacturers — ranging from newly formed *cottage* industries to legacy Soviet-era design bureaus — along with more than 60 other entities that supply parts, resell drones, or train UAV operators.
 
@@ -82,7 +82,7 @@ Contains basic information such as company leadership, co-owners (if known), inc
 | `email`             | Emails |
 | `reg_date`             | Registration date |
 | `reg_year`             | Registration year  |
-| `clos_date`             | Liquidation Date   |
+| `clos_date`             | Liquidation date   |
 | `current_owners`             | Co-owners as of April 2025 (or at the time of liquidation, if the company is in the process of being dissolved), if known |
 | `reg_region`             | Region of registration |
 | `okved`             | Primary business activity according to the Russian National Classifier of Economic Activities (OKVED) |
